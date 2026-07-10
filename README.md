@@ -3,5 +3,5 @@ Backups of emacs setups
 
 ```
 rm -rf ~/.emacs.d
-mv <directory-name> ~/.emacs.d
+cp -r <direcory name> ~/.emacs.d
 ```
